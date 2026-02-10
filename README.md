@@ -18,11 +18,17 @@ O projeto contém a implementação dos exercícios solicitados, com foco em **t
 
 exercicios/
 ├── exercicio1.ts # Variáveis e inferência de tipos
+
 ├── exercicio2.ts # Type Alias e Union Types
+
 ├── exercicio3.ts # Interface e função de resumo
+
 ├── exercicio4.ts # Interface com método
+
 ├── exercicio5.ts # Type + Interface (Pessoa)
+
 ├── exercicio6.ts # Função genérica
+
 └── exercicio7.ts # Interface genérica
 
 ## Observações
